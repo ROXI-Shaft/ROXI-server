@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/88016404/127222751-cf1f0cd1-b845-4041-9064-061e49ec1356.png)
+
 # ROXI built with LSB
 [![base build status](https://github.com/LandSandBoat/server/actions/workflows/build.yml/badge.svg)](https://github.com/LandSandBoat/server/actions/workflows/build.yml?query=base)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
@@ -34,14 +36,14 @@ one aug (attack, accuracy, ranged attack or ranged acc.)
 _Armor_  
 one aug (stat+ 1-2, attack 2-4, accuracy 2-4)  
 one aug (elemental resist 2-10, hp+ 5-10, mp 10-20)   
-**lvl 50-75 items (one roll = 10 byne bills, 10 whiteshells or 10 o.bronzepiece)**  
+**lvl 51-75 items (one roll = 10 byne bills, 10 whiteshells or 10 o.bronzepiece)**  
 _Weapons_  
 one aug (elemental damage 4-10 @ 30-100% proc)   
 one aug (attack 5-10, accuracy 5-10, ranged attack 5-10 or ranged acc 5-10)  
 _Armor_  
 one aug (stat+ 2-4, haste 0.4-1%, attack 2-5, accuracy 2-5)  
 one aug (elemental resist 10-20, hp 10-20, mp 20-50)   
-**lvl 75-99 items (one roll = 99 byne bills, 99 whiteshells, or 99 o.bronzepiece or one 100 piece equivalent)**  
+**lvl 76-99 items (one roll = 99 byne bills, 99 whiteshells, or 99 o.bronzepiece or one 100 piece equivalent)**  
 _Weapons_  
 one aug (elemental damage 10-20 @ 40-100% proc)  
 one aug (attack 10-20, accuracy 10-20, ranged attack 10-20 or ranged acc 10-20)  
