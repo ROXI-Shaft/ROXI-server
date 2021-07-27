@@ -16,7 +16,8 @@ Custom NPCs are people, not mobs. While we do want additional services (ie. warp
 :x: Subjobs level to 50  
 :x: Warp NPC to Towns/OPs  
 :x: Jobs NPC to unlock jobs and break LBs (quests optional)    
-:x: Characters start with Choco License  
+:x: Characters start with Choco & Airship License
+:x: Unlocked inventory
 :x: AGI Governs Haste & Haste uncapped  
 :x: Level 75 Equip up to 99 gear  
 :x: Revive Feather summons random NM  
