@@ -18,11 +18,14 @@ Custom NPCs are people, not mobs. While we do want additional services (ie. warp
 :x: Jobs NPC to unlock jobs and break LBs (quests optional)    
 :x: Characters start with Choco & Airship License  
 :x: Unlocked inventory  
+:x: Free Dynamis  
 :x: AGI Governs Haste & Haste uncapped  
 :x: Level 75 Equip up to 99 gear  
 :x: Revive Feather summons random NM  
 :x: Rebirth Feather summons random HNM (specific zones only)  
 :x: Custom Augment System for all Weapons/Armor  
+:x: all jobs get Gilfinder  
+:x: Custom variables for THF's Mug ability  
 :x: Custom Auras
 
 **lvl 1-50 items (one roll = byne bill, whiteshell or o.bronzepiece)**  
