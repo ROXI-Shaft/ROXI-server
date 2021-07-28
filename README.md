@@ -13,9 +13,9 @@ Custom NPCs are people, not mobs. While we do want additional services (ie. warp
 ## To Do List (subject to balancing)
 :x: EXP Modifier 4x (up to 10x in group play)  
 :x: Disabled EXP rings  
-:x: Skill Modifier 10x  
+:x: Skill up Modifier 10x  
 :x: Merits increased cap   
-:x: Crafting Skillups 3x  
+:x: Crafting Skill ups 3x  
 :x: Subjobs level to 50  
 :x: Warp NPC to Towns/OPs  
 :x: Jobs NPC to unlock jobs and break LBs (quests optional)    
