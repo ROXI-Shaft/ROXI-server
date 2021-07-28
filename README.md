@@ -21,7 +21,7 @@ Custom NPCs are people, not mobs. While we do want additional services (ie. warp
 :x: Characters start with Choco & Airship License  
 :x: Unlocked inventory  
 :x: Free Dynamis  
-:x: AGI Governs Haste & Haste cap increased 
+:x: AGI Governs Haste & Haste cap increased  
 :x: Level 75 Equip up to 90 gear (our take on adding ilvl to 75cap)  
 :x: Revive Feather summons random NM  
 :x: Rebirth Feather summons random HNM (specific zones only)  
