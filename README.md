@@ -11,9 +11,10 @@ Get around quickly, level quickly, skill up quickly. Deal more damage, hit faste
 Custom NPCs are people, not mobs. While we do want additional services (ie. warping) but lets not break the esthetic.  
 
 ## To Do List (subject to balancing)
-:x: EXP Modifier 10x  
+:x: EXP Modifier 4x (up to 10x in group play)  
+:x: Disabled EXP rings  
 :x: Skill Modifier 10x  
-:x: Merits 10x cap  
+:x: Merits increased cap   
 :x: Crafting Skillups 3x  
 :x: Subjobs level to 50  
 :x: Warp NPC to Towns/OPs  
