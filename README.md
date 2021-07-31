@@ -16,19 +16,17 @@ Custom NPCs are people, not mobs. While we do want additional services (ie. warp
 :x: Skill up Modifier 10x  
 :x: Merits increased cap   
 :x: Crafting Skill ups 3x  
-:x: Subjobs level to 50  
-:x: Warp NPC to Towns/OPs  
-:x: Jobs NPC to unlock jobs and break LBs (quests optional)    
+:x: Subjobs level to 40  
+:x: Warp NPCs  
 :x: Characters start with Choco & Airship License  
 :x: Unlocked inventory  
 :x: Free Dynamis  
-:x: AGI Governs Haste & Haste cap increased  
+:x: Tutorial Area
 :x: Level 75 Equip up to 90 gear (our take on adding ilvl to 75cap)  
-:x: Revive Feather summons random NM  
+:x: Revive Feather summons random NM  (Different group of NMs per zone)
 :x: Rebirth Feather summons random HNM (specific zones only)  
 :x: all jobs get Gilfinder  
 :x: Custom variables for THF's Mug ability  
-:x: Custom Auras
 
 ## Want to help build ROXI
 contact on discord, post an issue or submit pull request  
